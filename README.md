@@ -1,1 +1,2 @@
 # javascriptsamplecodes
+# practice codes
